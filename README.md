@@ -6,8 +6,9 @@ Learning C, C++, and improving problem-solving step by step.
 
 ---
 
-## 🚀 Competitive Programming
-- **Codeforces:** [mamunfr](https://codeforces.com/profile/mamunfr)
+### ✓ Codeforces Solved Problems
+![Codeforces solved](https://cf.leed.at/s?user=mamunfr)
+
 
 <p align="left">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mamunfr" alt="Codeforces Stats" />
