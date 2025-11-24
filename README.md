@@ -1,33 +1,16 @@
-<h1 align="center">Hi, I'm Mamun 👋</h1>
+# Hi, I'm Mamun 👋
 
-### 🌱 About Me
-Passionate about coding, logic, and competitive programming.  
-Learning C, C++, and improving problem-solving step by step.
-
----
-
-### ✓ Codeforces Solved Problems
-![Codeforces solved](https://cf.leed.at/s?user=mamunfr)
-
-
-<p align="left">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mamunfr" alt="Codeforces Stats" />
-</p>
+I'm learning programming and improving step by step.  
+Currently exploring C, C++, and competitive programming.
 
 ---
 
-## 🛠️ Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
-</p>
+### 🚀 Competitive Programming
+- Codeforces: https://codeforces.com/profile/mamunfr
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamunfr&show_icons=true" height="160px" />
-</p>
-
----
-
-⭐️ Always learning and trying to get better.
+### 🛠️ Tools I Use
+- C, C++
+- VS Code
+- Git & GitHub
